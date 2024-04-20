@@ -9,7 +9,7 @@
 * How to video manage
 * ...
 
-### Screen short
+### Screen shot
 #### HOME
 ![](https://github.com/go-up-now/online-entertainment/blob/main/images/home1.png)
 ![](https://github.com/go-up-now/online-entertainment/blob/main/images/home2.png)
